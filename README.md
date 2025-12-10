@@ -9,7 +9,7 @@ Scopul aplicației este de a oferi o interfață simplă și intuitivă pentru u
 - Coordonator proiect: MihaiC
 - Designer UI/UX: MihaiC
 - Prototipuri si animatii: ValeriuC
-- Informatii si asigirarea pasilor: MihaiB
+- Informatii si asigurarea pasilor/proiectului: MihaiB
 - Tester: MihaiC
 
 ## 🗂️ Structura proiectului
