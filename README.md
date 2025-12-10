@@ -11,5 +11,3 @@ Scopul aplicației este de a oferi o interfață simplă și intuitivă pentru u
 - Prototipuri si animatii: ValeriuC
 - Informatii si asigurarea pasilor/proiectului: MihaiB
 - Tester: MihaiC
-
-## 🗂️ Structura proiectului
